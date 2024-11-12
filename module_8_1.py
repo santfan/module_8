@@ -16,6 +16,6 @@ print(add_everything_up(1, 7))
 print(add_everything_up('duple', 17))
 # Подадим две строки (ошибок нет)
 print(add_everything_up('Привет ', 'незнакомец'))
-
+# Подадим два числа типа float (ошибок нет)
 print(add_everything_up(12.3567, 344.5))
 
